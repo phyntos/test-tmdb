@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/test-tmdb/static/js/main.4b050d52.chunk.js",
-    "main.js.map": "/test-tmdb/static/js/main.4b050d52.chunk.js.map",
+    "main.js": "/test-tmdb/static/js/main.4274e63e.chunk.js",
+    "main.js.map": "/test-tmdb/static/js/main.4274e63e.chunk.js.map",
     "runtime-main.js": "/test-tmdb/static/js/runtime-main.c90c02cd.js",
     "runtime-main.js.map": "/test-tmdb/static/js/runtime-main.c90c02cd.js.map",
     "static/js/2.e4770a86.chunk.js": "/test-tmdb/static/js/2.e4770a86.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.c90c02cd.js",
     "static/js/2.e4770a86.chunk.js",
-    "static/js/main.4b050d52.chunk.js"
+    "static/js/main.4274e63e.chunk.js"
   ]
 }
